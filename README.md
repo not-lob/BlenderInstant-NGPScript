@@ -1,5 +1,7 @@
 # BlenderInstant-NGPScript
 
+Initial script by Martijn Courteaux (https://github.com/mcourteaux)
+
 1. Align your image set in Reality Capture with all images in the same Calibration and Lens Distortion group
 2. Create a preview mesh from your alignment
 3. Export a FBX from Reality Capture, ensure Export Cameras and Undistort Images are set to Yes
